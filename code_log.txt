@@ -1,0 +1,9 @@
+2024-06-02 23:21:53.533544: Preliminaries complete. Initiating ETL process.
+2024-06-02 23:21:56.007645: Data Extracted Successfully form the Wikipedia.
+2024-06-02 23:21:56.007645: Extraction complete.
+2024-06-02 23:21:56.012526: Data Transformation Successfully done, step 2.
+2024-06-02 23:21:56.012526: Extraction complete.
+2024-06-02 23:21:56.019571: Data Loaded into csv, step 3.
+2024-06-02 23:21:56.020537: data has been loaded into csv.
+2024-06-02 23:21:56.248724: Data Loaded into sqlite3, step 4.
+2024-06-02 23:21:56.249701: data has been loaded into sqlite3.
